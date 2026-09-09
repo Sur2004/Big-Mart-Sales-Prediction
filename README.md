@@ -1,11 +1,27 @@
-Big Mart Sales Prediction
-A machine learning project to analyze Big Mart sales data and predict Item Outlet Sales using product and outlet features.
-Project Highlights
-Data cleaning and preprocessing
-Exploratory data analysis and visualization
-Feature engineering
-Model comparison and optimization
-Models: Random Forest, KNN, Gradient Boosting, XGBoost
-Evaluation using R², MAE, and RMSE
-Goal
-To help Big Mart improve sales prediction, inventory planning, and outlet-level decision making.
+# 🛒 Big Mart Sales Prediction
+
+📊 A machine learning project to analyze Big Mart sales data and predict **Item Outlet Sales** using product and outlet features.
+
+## 🚀 Project Highlights
+
+- 🧹 Data Cleaning & Preprocessing
+- 📈 Exploratory Data Analysis & Visualization
+- ⚙️ Feature Engineering
+- 🤖 Machine Learning Model Comparison
+- 🔍 Hyperparameter Optimization
+- 📏 Model Evaluation using R², MAE & RMSE
+
+## 🤖 Models Used
+
+🌲 Random Forest Regressor  
+📍 KNN Regressor  
+📈 Gradient Boosting Regressor  
+⚡ XGBoost Regressor
+
+## 🎯 Goal
+
+To predict Big Mart sales and support **inventory planning, product planning, and outlet-level decision making**.
+
+## 👥 Team
+
+**Team Surya**
